@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_porfolio=self.webpackChunkmy_porfolio||[]).push([[169],{5169:(e,p,o)=>{e.exports=o.p+"static/media/crm.21dbe56798e843053467.png"}}]);

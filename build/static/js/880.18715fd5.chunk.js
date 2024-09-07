@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_porfolio=self.webpackChunkmy_porfolio||[]).push([[880],{880:(p,s,e)=>{p.exports=e.p+"static/media/phishing.473ad990f82c99f1d538.jpg"}}]);

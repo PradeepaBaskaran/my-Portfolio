@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_porfolio=self.webpackChunkmy_porfolio||[]).push([[575],{5575:(e,p,s)=>{e.exports=s.p+"static/media/mysql.b4e6c81fc25fd8fb7b4d.png"}}]);
