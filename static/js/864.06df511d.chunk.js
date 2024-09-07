@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_porfolio=self.webpackChunkmy_porfolio||[]).push([[864],{5864:(p,s,e)=>{p.exports=e.p+"static/media/postgres.6770038062b722bb52d2.png"}}]);
