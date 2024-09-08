@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-Portfolio/static/css/main.f3d561e4.css",
-    "main.js": "/my-Portfolio/static/js/main.63b6ceab.js",
+    "main.js": "/my-Portfolio/static/js/main.7d72543f.js",
     "static/js/169.95b5f38f.chunk.js": "/my-Portfolio/static/js/169.95b5f38f.chunk.js",
     "static/js/652.57f57867.chunk.js": "/my-Portfolio/static/js/652.57f57867.chunk.js",
     "static/js/82.3903f01a.chunk.js": "/my-Portfolio/static/js/82.3903f01a.chunk.js",
@@ -21,9 +21,9 @@
     "static/media/java.jpg": "/my-Portfolio/static/media/java.061d157d31fe5d01aa77.jpg",
     "static/media/postgres.png": "/my-Portfolio/static/media/postgres.6770038062b722bb52d2.png",
     "static/media/node.png": "/my-Portfolio/static/media/node.5d5d9d03b2d52985e196.png",
-    "static/media/resume.pdf": "/my-Portfolio/static/media/resume.8a6ff1386c08c29afc55.pdf",
     "static/media/mysql.png": "/my-Portfolio/static/media/mysql.b4e6c81fc25fd8fb7b4d.png",
     "static/media/regular_1708x683_op-Ten-Front-End-Design-Rules-For-Developers_Luke-Newsletter-png": "/my-Portfolio/static/media/regular_1708x683_op-Ten-Front-End-Design-Rules-For-Developers_Luke-Newsletter-d3a7d3e7430ee224cab75104f11342a0.7f55794b0a7eae92c7a8.png",
+    "static/media/resume.pdf": "/my-Portfolio/static/media/resume.2edfd65c7ee86fe9fabf.pdf",
     "static/media/crm.png": "/my-Portfolio/static/media/crm.21dbe56798e843053467.png",
     "static/media/mongodb.png": "/my-Portfolio/static/media/mongodb.6c36b1052784b1167adc.png",
     "static/media/react.png": "/my-Portfolio/static/media/react.b9bfc03357028cff869a.png",
@@ -34,11 +34,11 @@
     "static/media/mongo.png": "/my-Portfolio/static/media/mongo.4dbf6bd323330e8eb5af.png",
     "index.html": "/my-Portfolio/index.html",
     "main.f3d561e4.css.map": "/my-Portfolio/static/css/main.f3d561e4.css.map",
-    "main.63b6ceab.js.map": "/my-Portfolio/static/js/main.63b6ceab.js.map",
+    "main.7d72543f.js.map": "/my-Portfolio/static/js/main.7d72543f.js.map",
     "453.0f15f3a3.chunk.js.map": "/my-Portfolio/static/js/453.0f15f3a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3d561e4.css",
-    "static/js/main.63b6ceab.js"
+    "static/js/main.7d72543f.js"
   ]
 }
